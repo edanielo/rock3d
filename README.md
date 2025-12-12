@@ -55,7 +55,7 @@ python src/pipeline.py
 Credits and References
 - [AliceVision](https://github.com/alicevision/AliceVision) Meshroom: Griwodz et al., 2021.
 
-U-2-Net: Qin et al., 2020.
+- U-2-Net: Qin et al., 2020.
 
-Team: Edgar Ocampo, Angel Rosado, Astrid Osorno, Maricarmen Buenfil.
+- Team: Edgar Ocampo, Angel Rosado, Astrid Osorno, Maricarmen Buenfil.
 
