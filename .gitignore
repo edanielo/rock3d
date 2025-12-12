@@ -1,0 +1,8 @@
+# Alicevision
+aliceVision/
+
+# Data
+data/
+
+# Runtime files
+vars.sh
